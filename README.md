@@ -2,7 +2,14 @@
 
 I try to make games and cool stuff.
 
-[![My Skills](https://skillicons.dev/icons?i=godot,java)](https://skillicons.dev)
+Focus:
+
+[![My Skills](https://skillicons.dev/icons?i=godot)](https://skillicons.dev)
+
+Other things I partake in:
+
+
+[![My Skills](https://skillicons.dev/icons?i=java,unity,mint,obsidian,linux)](https://skillicons.dev)
 <!--
 **Juexis/Juexis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
