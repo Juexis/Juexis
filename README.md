@@ -1,12 +1,12 @@
-## Hello 👋
+# Hello 👋
 
 I try to make games and cool stuff.
 
-Focus:
+## Current Focus
 
-[![My Skills](https://skillicons.dev/icons?i=godot)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=godot)](https://skillicons.dev) 
 
-Other things I partake in:
+## Other things I partake in
 
 
 [![My Skills](https://skillicons.dev/icons?i=java,unity,mint,obsidian,linux)](https://skillicons.dev)
