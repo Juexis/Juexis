@@ -6,7 +6,7 @@ I try to make games and cool stuff.
 
 [![My Skills](https://skillicons.dev/icons?i=godot)](https://skillicons.dev) 
 
-[![roadmap.sh](https://roadmap.sh/card/tall/693a61a95b2214badbeb03fc?variant=dark&roadmaps=%2Chtml%2Cbackend%2Cfull-stack)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/tall/693a61a95b2214badbeb03fc?variant=dark)](https://roadmap.sh)
 
 ## Other things I partake in
 
