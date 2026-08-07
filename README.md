@@ -4,7 +4,7 @@ I try to make games and cool stuff.
 
 ## Current Focus
 
-[![My Skills](https://skillicons.dev/icons?i=godot,html,css,js,neetcode)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=godot,html,css,js,python)](https://skillicons.dev) 
 
 [![roadmap.sh](https://roadmap.sh/card/tall/693a61a95b2214badbeb03fc?variant=dark&roadmaps=html%2Ccss%2Cjavascript%2Cfrontend)](https://roadmap.sh)
 
