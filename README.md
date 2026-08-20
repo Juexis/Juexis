@@ -1,6 +1,6 @@
 # Hello 👋
 
-I try to make games and cool stuff.
+CS student making games and websites.
 
 ## Current Focus
 
