@@ -1,6 +1,6 @@
 # Hello 👋
 
-CS student making games and websites.
+CS student making games and websites. Currently finishing up "Welcome To BluOS"! stay tuned!!!
 
 ## Current Focus
 
