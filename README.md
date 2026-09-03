@@ -1,6 +1,6 @@
 # Hello 👋
 
-CS student making games and websites. Currently finishing up "Welcome To BluOS"! stay tuned!!!
+CS student making games and websites. Check out my game ["Welcome To BluOS"](https://juexis.itch.io/welcome-to-bluos)! on itch.io!!!
 
 ## Current Focus
 
