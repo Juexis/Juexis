@@ -6,7 +6,7 @@ CS student making games and websites. Check out my game ["Welcome To BluOS"](htt
 
 [![My Skills](https://skillicons.dev/icons?i=godot,html,css,js,python)](https://skillicons.dev) 
 
-[![roadmap.sh](https://roadmap.sh/card/tall/693a61a95b2214badbeb03fc?variant=dark&roadmaps=html%2Ccss%2Cjavascript%2Cfrontend)](https://roadmap.sh)
+<!--[![roadmap.sh](https://roadmap.sh/card/tall/693a61a95b2214badbeb03fc?variant=dark&roadmaps=html%2Ccss%2Cjavascript%2Cfrontend)](https://roadmap.sh)-->
 
 ## Other things I partake in
 
