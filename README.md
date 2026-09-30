@@ -4,14 +4,14 @@ CS student making games and websites. Check out my game ["Welcome To BluOS"](htt
 
 ## Current Focus
 
-[![My Skills](https://skillicons.dev/icons?i=godot,html,css,js,python)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=godot,html,css,js,react,python)](https://skillicons.dev) 
 
 <!--[![roadmap.sh](https://roadmap.sh/card/tall/693a61a95b2214badbeb03fc?variant=dark&roadmaps=html%2Ccss%2Cjavascript%2Cfrontend)](https://roadmap.sh)-->
 
 ## Other Skills
 
 
-[![My Skills](https://skillicons.dev/icons?i=java,unity,mint,obsidian,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,c,unity,mint,vscode,obsidian,linux,vite,npm,ts,markdown)](https://skillicons.dev)
 <!--
 **Juexis/Juexis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
