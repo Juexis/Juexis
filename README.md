@@ -11,7 +11,7 @@ CS student making games and websites. Check out my game ["Welcome To BluOS"](htt
 ## Other Skills
 
 
-[![My Skills](https://skillicons.dev/icons?i=java,c,unity,mint,vscode,obsidian,linux,vite,npm,ts,markdown)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,c,unity,mint,vscode,obsidian,linux,vite,npm,ts,markdown,figma)](https://skillicons.dev)
 <!--
 **Juexis/Juexis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
